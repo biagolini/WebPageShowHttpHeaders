@@ -15,6 +15,12 @@ This is a simple static HTML page that displays a few HTTP request headers using
 2. Open the `index.html` file in any web browser.
 3. The page will display the request headers listed above.
 
+## Access the Tool Online
+
+You can access the tool online via GitHub Pages:  
+[HTTP Headers Tool](https://biagolini.github.io/WebPageShowHttpHeaders/)
+
+
 ## Limitations
 
 - This project only displays a limited set of headers due to browser security restrictions.

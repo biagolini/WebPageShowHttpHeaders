@@ -2,6 +2,10 @@
 
 This is a simple static HTML page that displays a few HTTP request headers using JavaScript.
 
+## Access the Tool Online
+
+You can access the tool online via GitHub Pages: [HTTP Headers Tool](https://biagolini.github.io/WebPageShowHttpHeaders/)
+
 ## Features
 
 - Displays the following headers:
@@ -14,11 +18,6 @@ This is a simple static HTML page that displays a few HTTP request headers using
 1. Clone the repository or download the `index.html` file.
 2. Open the `index.html` file in any web browser.
 3. The page will display the request headers listed above.
-
-## Access the Tool Online
-
-You can access the tool online via GitHub Pages:  
-[HTTP Headers Tool](https://biagolini.github.io/WebPageShowHttpHeaders/)
 
 
 ## Limitations
